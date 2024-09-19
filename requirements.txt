@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+requests
+vk_api
+configparser
+sqlite3
